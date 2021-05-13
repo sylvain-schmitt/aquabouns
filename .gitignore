@@ -1,4 +1,8 @@
 ###> fichier non commit ###
 /scss
-/image/Nouveau-dossier
+/image
 .vscode
+/font
+.gitignore
+/css
+/js
